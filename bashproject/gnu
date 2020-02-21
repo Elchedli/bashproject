@@ -1,0 +1,1 @@
+yad --text="Good Morning" --text-align=center --width=200 --height=50 --button='-ltop:bash -c "top -b"' --button='-lps:bash -c "./script.sh -lps"' --button='-root:bash -c "./script.sh -root"' --button='-mcpu:bash -c "./script.sh -mcpu"' --button='-plot:bash -c "./script.sh -plot"' --button='-help:bash -c "./script.sh -help"'
